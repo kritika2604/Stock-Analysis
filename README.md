@@ -1,5 +1,5 @@
 # Stock-Analysis
-Stock Analysis (Module2-VBA)
+Analyze Stocks using VBA
 
 **Overview of Project:**  To find the feasibility of green stocks starting with DQ and then checking for varied stocks which were traded during the year 2017 and 2018. 
 
